@@ -3,5 +3,5 @@
 1. Numpy
 2. Pandas
 3. Crawling
-4. Ml
-5. Deep
+4. sklearn
+5. tensorflow
